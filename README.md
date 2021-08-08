@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ... Django, ReactJs, Golang and Flutter
+- 🌱 I’m currently learning ... Golang, ReactJs, Rails and Dart
 - 👯 I’m looking to collaborate on ... Golang
 - 🤔 I’m looking for help with ... any of the above
 - 💬 Ask me about ... anything.
